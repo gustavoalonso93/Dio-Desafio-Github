@@ -6,4 +6,4 @@ Desafio de projeto sobre Git/GitHub Dio-Bootcamp Santander  - Mobile-dev.
 Neste repositorio estarei colocando todos os códigos de desafios e demais codigos que utilizarei para aplicar os conhecimentos adquiridos.
 
 - GitHub
-teste de comandos aprendidos utilizando terminal Bash.
+-- teste de comandos aprendidos utilizando terminal Bash.
