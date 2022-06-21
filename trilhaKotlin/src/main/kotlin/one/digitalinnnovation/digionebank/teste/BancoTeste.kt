@@ -12,4 +12,6 @@ fun main(){
 
     println(banco2.nome)
     println(banco2.numero)
+
 }
+
