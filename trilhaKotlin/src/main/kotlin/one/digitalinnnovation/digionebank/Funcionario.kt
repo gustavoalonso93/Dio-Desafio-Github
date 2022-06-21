@@ -9,4 +9,10 @@ abstract class Funcionario(
 ): Pessoa(name, cpf) {
    protected abstract fun calculoAuxilio():Double
 
+   override fun toString(): String = """
+    Nome:   $name 
+    Cpf:    $cpf
+    Salario:$salario
+    Auxilio:${calculoAuxilio()}
+    """
 }
